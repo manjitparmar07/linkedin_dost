@@ -1,0 +1,27 @@
+
+QWidget {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    font-family: Arial;
+}
+QTableWidget {
+    background-color: #34495e;
+    border: none;
+    gridline-color: #1abc9c;
+}
+QHeaderView::section {
+    background-color: #16a085;
+    color: white;
+    padding: 5px;
+    font-size: 14px;
+}
+QProgressBar {
+    background-color: #34495e;
+    border: none;
+    text-align: center;
+    color: white;
+}
+QProgressBar::chunk {
+    background-color: #1abc9c;
+}
+        

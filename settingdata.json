@@ -1,0 +1,27 @@
+[
+{
+    "type":"Like",
+    "per_day_min":10,
+    "per_day_max":100,
+    "per_day_select":2
+},
+{
+    "type":"Comment",
+    "per_day_min":10,
+    "per_day_max":100,
+    "per_day_select":2
+},
+{
+    "type":"Connection",
+    "per_day_min":10,
+    "per_day_max":100,
+    "per_day_select":2
+},
+{
+    "type":"FollowUp",
+    "per_day_min":10,
+    "per_day_max":100,
+    "per_day_select":2
+}
+
+]

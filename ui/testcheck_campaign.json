@@ -1,0 +1,21 @@
+{
+    "campaign_name": "testcheck",
+    "queue": [
+        {
+            "name": "John Doe",
+            "linkedin_url": "https://linkedin.com/in/johndoe",
+            "degree": "2nd"
+        },
+        {
+            "name": "Jane Smith",
+            "linkedin_url": "https://linkedin.com/in/janesmith",
+            "degree": "2nd"
+        }
+    ],
+    "actions": [
+        {
+            "type": "message",
+            "template": "Hi {name}, LBM Solutions"
+        }
+    ]
+}
